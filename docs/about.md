@@ -64,7 +64,7 @@ As a member of the company, you will have some moral responsibilities. While mos
 As we are working from home now, the “Appearance” section might not be relevant.
 
 ## Appearance
-We don’t have a dress code; however, the company is a professional business office where visitors might appear. We advise you to wear comfortable, socially acceptable clothes. T-shirts with inappropriate pictures and clothing that expose too much may make your coworkers feel uncomfortable interacting with you. As always, please use common sense in your choice of business attire. A rule of thumb is to wear something that looks good on a cover photo of the company’s social media profile.
+We don’t have a dress code; however, the company is a professional business office where visitors might appear. We advise you to wear comfortable, socially acceptable clothes.
 
 ## Impression
 Please stay cheerful during the meetings, and be polite to your coworkers. We know it’s hard to control urges to shout at someone but it also ruins the entire session. You can always send a private message in ALL CAPS if you really need to shout at someone. Remember, harassing or verbally abusing someone is a serious offense that may lead to immediate termination of your employment
