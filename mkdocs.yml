@@ -1,0 +1,11 @@
+site_name: Employee Handbook 
+theme:
+  name: material
+  palette:
+    primary: light blue
+nav:
+- Home : index.md
+- About Your Employment : about.md
+- Calendar and Leave Policy : leave.md
+- Payments and Benefits : payment.md
+- Accidents, Misconduct and Disputes : accident.md
