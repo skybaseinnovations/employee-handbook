@@ -36,8 +36,6 @@ Depending on your responsibility, you might be kept in a probation period of up 
 ## Attendance
 It is crucial for you to report to work on time and to avoid unnecessary absences. We understand that you to be absent from work from time to time because of illness or other circumstances beyond your control. However, we will need to take action against anyone who frequently shows up late or frequently becomes absent. When your behavior puts a strain on your coworkers and starts getting noticeable, we will be obliged to terminate your employment.
 
-As we are now from home, we have an online meeting at 10:00 AM every working day. Your supervisor may assign a different time for the meeting based on the team’s preference. You must attend the meeting to keep the team up to date on everyone’s progress. If you fail to attend the meeting on a regular basis your supervisor will ask for an explanation and notify the HR Manager.
-
 ## Termination
 While we try our best to help you perform your best, sometimes we may need to let you go for the common interest of the Company and your coworkers. As far as the law allows, we reserve the right to immediately terminate your employment for any of the following misconduct.
 
