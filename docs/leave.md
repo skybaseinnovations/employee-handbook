@@ -1,3 +1,12 @@
+<style>
+.md-typesettable {
+  width: 100%;
+}
+.md-typesettable table:not([class]) {
+  display: table
+}
+</style>
+
 Our working hours in a day will be 8 hours, including half an hour break for lunch and other personal work. We are flexible in our working hours in case of an emergency. Depending on the circumstances, you may need to work overtime. We will give you as much advance notice as possible when you need to work overtime. Overtime work should only be done after being explicitly instructed and approved by the Operations Manager.
 
 ## Time Schedule
@@ -6,22 +15,24 @@ We have a different time schedule for the winter and summer months for the safet
 ## Holidays
 The office remains closed on Saturdays and Sundays. We are not a school, so we don’t have a lot of holidays, but we have some for the days we think you should be staying home. Our holidays mostly align with the government holidays for festivals, so everyone can celebrate their auspicious occasions. We do not discriminate against anyone based on their origin, gender, ethnicity, and religion but we want everyone to have a holiday on the day they need the most. For example, a resident of the Terai region gets a day off on the day after Fagu Purnima.
 
-HOLIDAY	DURATION	DAYS	Remarks
-Nepali New Year	1 Day	1st of Baisakh	Everyone
-Rakshya Bandhan
-1 Day	On the day of Janai Purnima	Everyone
-Dashain Festival	8 Days	Day of Bijaya Dashami
-Two days before Dashami
-Five days after Dashami	Everyone
-Tihar Festival	3 Days	Day of Bhaitika
-The day before Bhaitika
-The day after Bhaitika	Everyone
-Shivaratri Festival	1 Day	Day of Shivaratri Puja	Everyone
-Holi Festival	1 Day	Day of Fagu Purnima	Based on region
-Teej Festival	1 Day	Day of Haritalika Teej	Based on gender
-Chhath Festival	1 Day	Day of Chhath fasting	Based on ethnicity
-Christmas Festival	1 Day	Day of Christmas	Based on religion
-Lhosar Festival	1 Day	Day of Lhosar	Based on religion
+<hr>
+
+HOLIDAY | DURATION | DAYS | Remarks 
+--- | --- | --- | ---
+Nepali New Year | 1 Day | 1st Baisakh | Everyone
+International Workers Day | 1 day | Day of Int. Worker's Day | Everyone
+Rakshya Bandhan | 1 Day | On the day of Janai Purnima| Everyone
+Haritalika Teej | 1 Day | On the day of Teej | Everyone
+Constitution Day | 1 Day | On the day of constitution day | Everyone
+Dashain Festival | 6 Days | Ghatasthapana <br> Phulpati <br> Maha Astami <br> Maha Nawami <br> Bijaya Dashami <br> Ekadashi | Everyone
+Tihar Festival | 4 Days |Laxmi Pooja <br> Gobardhan Pooja <br> Bhai Tika <br> Kija Pooja| Everyone
+Maghe Sankranti | 1 Day | 1st Magh| Everyone
+Maha Shiva Ratri | 1 Day | Day of Shivaratri puja| Everyone
+International Women's Day | 1 Day | Day of Int. Women's Day| Based on gender
+Fagu Purnima | 1 Day | Day of Holi| Based on region
+Chhath Festival | 1 Day | Day of Chhath fasting| Based on ethnicity
+Christmas Festival | 1 Day | Day of Christmas| Based on religion
+Lhosar Festival | 1 Day | Day of Lhosar| Based on religion
 
 ## Holiday Calendar
 We do not take a day off on occasions like April Fool’s Day, Mother’s Day, Father’s Day, Children’s Day, Women’s Day, Labor Day, and such. We also don’t close for people’s birthdays like on Krishna Janmasthami, Prithvi Jayanti, etc., and on frequent occasions like Sankranti, Purnima, Ekadashi, etc. If you must stay at home for an important traditional festival that is not listed above, please let your supervisor know in advance. We may need to add that particular holiday for everyone who might need a day off.
