@@ -13,7 +13,7 @@ Our working hours in a day will be 8 hours, including half an hour break for lun
 We have a different time schedule for the winter and summer months for the safety and comfort of everyone. This schedule helps us avoid driving in the cold, dark evenings of the winter months. In the winter season, we offer lunch (Dal, Bhat, Tarkari, Achar, and frequent non-veg meals) at our premises in the morning.
 
 ## Holidays
-The office remains closed on Saturdays and Sundays. We are not a school, so we don’t have a lot of holidays, but we have some for the days we think you should be staying home. Our holidays mostly align with the government holidays for festivals, so everyone can celebrate their auspicious occasions. We do not discriminate against anyone based on their origin, gender, ethnicity, and religion but we want everyone to have a holiday on the day they need the most. For example, a resident of the Terai region gets a day off on the day after Fagu Purnima.
+The office remains closed on Saturdays. We are not a school, so we don’t have a lot of holidays, but we have some for the days we think you should be staying home. Our holidays mostly align with the government holidays for festivals, so everyone can celebrate their auspicious occasions. We do not discriminate against anyone based on their origin, gender, ethnicity, and religion but we want everyone to have a holiday on the day they need the most. For example, a resident of the Terai region gets a day off on the day after Fagu Purnima.
 
 <hr>
 
