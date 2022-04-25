@@ -1,4 +1,4 @@
-We want everyone to know what it is like to work at Skybase Innovations. This section of our handbook tries to answer all information that you would need to know before applying, as well as serve as a reference guide to our team members. We have updated this section to reflect the change in our workspace after going fully remote. Team Skybase can direct all questions related to this section to our Operations Manager, or ask a question in the #content channel.
+We want everyone to know what it is like to work at Skybase Innovations. This section of our handbook tries to answer all information that you would need to know before applying, as well as serve as a reference guide to our team members. Team Skybase can direct all questions related to this section to our Operations Manager, or ask a question in the #general channel.
 
 # Payments
 You must meet the following criteria to be able to receive your payment.
@@ -9,12 +9,7 @@ You must meet the following criteria to be able to receive your payment.
 - We withhold applicable taxes on all payments made to you. You can ask all tax-related questions to our Operations Manager.
 
 ## Payroll Schedule
-All payments are made online and deposited directly to your bank account, so public holidays do not delay the payments. If we are aware of upcoming issues with the online payment system that affects your payment, we will notify you as soon as we can. Your payment will always be made before the end of the running English month unless a natural calamity, epidemic, pandemic, or any unforeseen events hinder the company’s ability to issue the payment to you. In any case, the Operations Manager will communicate the details with you.
-
-The payment cycle starts on the 16th of the English month and ends on the 15th of the next month. This is to maintain compatibility with the Gregorian calendar system used in Nepal.
-The 21st of the next English month will be your payday, which is six days after the month ends.
-If the date falls on Saturday, the company will initiate the payment on the 20th.
-If the date falls on Sunday, we will issue the paychecks on the 22nd.
+All payments are made online and deposited directly to your bank account, so public holidays do not delay the payments. If we are aware of upcoming issues with the online payment system that affects your payment, we will notify you as soon as we can. Your payment will always be made before the 10th of each Nepali calendar month unless a natural calamity, epidemic, pandemic, or any unforeseen events hinder the company’s ability to issue the payment to you. In any case, the Operations Manager will communicate the details with you.
 
 ## Bonuses
 The company provides two kinds of bonuses, apart from your regular payment. These bonuses are entirely voluntary and subject to the availability of adequate funds in the company.
@@ -26,8 +21,6 @@ Every year, on the occasion of the Dashain festival, the company gives you a Fes
 The company gives Performance Bonuses to people who have the greatest impact on the company’s growth. The bonus amount and frequency depend on three factors – your observed performance, the success of the project that you worked on, and the impact of your work on the success of the said projects. There are no specific rules and guidelines about how you get performance bonuses. In a nutshell, the more serious you are towards your work, and the more successful the product becomes, the more bonus you will receive. In fact, it’s also a matter of luck in some cases.
 
 ## Benefits
-### Paid Vacation
-We recognize the importance of vacation time for mental rest, recreation, and personal enrichment. The company calculates the number of leaves based on a Gregorian calendar-year basis, irrespective of the date you started working at the company. You are allowed to take a fully paid vacation of 14 days a year after completion of the probation period.
 
 ### Subscriptions
 We pay for the following membership and subscriptions to help you stay healthy and continue to learn new things. All memberships need prior approval from the Operations Manager.
@@ -37,9 +30,7 @@ Subscriptions of online tools or desktop software that help you work efficiently
 Certification courses for web security, if you are a web developer.
 
 ### Lunch and Refreshment
-The company provides free lunch for everyone who has checked-in for the day’s work. You can enjoy the meal available on the premises for free. Help yourself with snacks and drinks available for free inside the premises whenever you like. Take a nap during the day if you feel fatigued, or take a walk around when you need some thinking time. We would love you to drink enough water from the dispenser and stay hydrated throughout the day. Since we have an open office setup, we don’t allow smoking and getting intoxicated during working hours. We have received a lot of complaints in the past about coworkers smelling bad and showing inappropriate behavior as a result of smoking and drinking.
-
-As everyone in the team is now working from home, the company does not bear the expenses of daily lunch and snacks separately. Nonetheless, we recommend everyone to take regular breaks and stay hydrated.
+Help yourself with snacks and drinks available for free inside the premises whenever you like. Take a nap during the day if you feel fatigued, or take a walk around when you need some thinking time. We would love you to drink enough water from the dispenser and stay hydrated throughout the day. Since we have an open office setup, we don’t allow smoking and getting intoxicated during working hours.
 
 ### Party & Outing
 Occasionally the company may organize refreshment programs like parties and outings. Participation is mandatory if the event takes place during working hours; otherwise, your participation is voluntary. We bear all costs associated with the refreshment programs, including lodging, food, tickets, hire, entree fees, breakfast, lunch, and dinner. The company policies against violence, harassment, and discrimination also apply during such events.
@@ -62,7 +53,7 @@ Our Operations Manager will provide you all the details about the deductions mad
 All performance reviews will be completed in writing by your manager on the form designated by the company and reviewed during a conference with you. A performance review usually promotes you to a higher level with higher pay.
 
 ## Review Frequency
-You will have your first performance review at the end of your first three months of joining the company. After your first review, your performance review will generally be conducted annually on or about your anniversary date. If you would like to have a review of your payment or re-negotiate the terms of employment, you should write to the Operations Manager.
+You will have your first performance review at the end of your first three months of joining the company. After your first review, your performance review will generally be conducted bi-annually on or annually. If you would like to have a review of your payment or re-negotiate the terms of employment, you should write to the Operations Manager.
 
 Constant degradation in work performance may lead to re-negotiating your benefits, or a warning of termination of your contract. If you are having personal issues that lead to decreased performance, we offer as much help as we can to overcome the issues. Please feel free to talk to anyone on the team.
 
