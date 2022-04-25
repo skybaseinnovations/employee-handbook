@@ -61,11 +61,14 @@ The company provides everyone up to 15 consecutive days (depending on your cultu
 ### Civic Duty Leave
 Leave taken to fulfill necessary civic duties will be granted as paid leave. Exercising voting rights and any other civic rights will be considered as a civic duty.
 
+### Leave in lieu
+For the employees who put in work in public holiday or weekly offs.
+
 ### Examination Leave
 For students, Unpaid leaves given provided a week before the Examination. For the full-time employees, leaves are granted according to the Project Manager
 
 ### Other Leaves
-Apart from the public holiday on Saturday, the company provides a casual leave on Sunday. That’s why there is no other kind of paid leave. All other leaves will be unpaid. You can take a maximum of 15 days of unpaid leave per year. You cannot take more than 7 days of consecutive leave at a time.
+All other leaves will be unpaid. You can take a maximum of 15 days of unpaid leave per year. 
 
 ### Unused Leaves
 Only the sick leave carries over to the next year. You will be paid for accrued but unused vacation time as part of your last paycheck, or on the day your contract ends. The payment will be made according to your rate at the time the leave was accrued.
