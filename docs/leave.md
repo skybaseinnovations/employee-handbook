@@ -50,7 +50,7 @@ When an absence is due to illness, or medical emergency the company reserves the
 You can take the following kinds of paid leaves. If you have worked in the company for more than a year will be paid in full. Otherwise, you will be paid half for the days on your leave. If you are still under the probation period will not be paid for the days you take leave.
 
 ### Sick Leave
-After completing 6 months of employment, Every year you get one day off of every month as Sick Leave apart from other vacations. You may use this leave quota for medical purposes as well as other casual work. If you have an infection of communicable disease, the company may force you to take a leave until you are cured. Such leave will be deducted from the available Sick Leave quota; if the quota runs out, such leave will be an unpaid leave.
+Every year you get one day off of every month as Sick Leave apart from other vacations. You may use this leave quota for medical purposes as well as other casual work. If you have an infection of communicable disease, the company may force you to take a leave until you are cured. Such leave will be deducted from the available Sick Leave quota; if the quota runs out, such leave will be an unpaid leave.
 
 ### Maternity Leave
 The company provides 100 consecutive days of fully paid leave to expecting mothers. The leave can start no sooner than 15 days before the expected delivery date unless a medical condition prevents her from coming to work. The mother of a newborn can work from home until the baby is 6 months old. Similarly, the company provides 15 consecutive days of fully paid leave to expecting fathers. The father of the newborn can work from home until the baby is one month old as long as the mother and baby live together with him.
