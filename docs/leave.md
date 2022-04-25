@@ -7,7 +7,7 @@
 }
 </style>
 
-Our working hours in a day will be 7 hours, including an hour break for lunch and other personal work. We are flexible in our working hours in case of an emergency. Depending on the circumstances, you may need to work overtime. We will give you as much advance notice as possible when you need to work overtime. Overtime work should only be done after being explicitly instructed and approved by the Operations Manager.
+Our working hours in a day will be 8 hours, including an hour break for lunch and other personal work. We are flexible in our working hours in case of an emergency. Depending on the circumstances, you may need to work overtime. We will give you as much advance notice as possible when you need to work overtime. Overtime work should only be done after being explicitly instructed and approved by the Operations Manager.
 
 ## Time Schedule
 Our time schedule is normally 10:00 AM to 6:00 PM
