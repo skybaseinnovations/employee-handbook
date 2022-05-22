@@ -48,6 +48,7 @@ The company will withhold the following from your paycheck:
 - All other payments made to you will be subject to the rates assigned by the IRD.
 - You will receive notifications from the IRD when the withheld tax is deposited on your behalf.
 Our Operations Manager will provide you all the details about the deductions made on your behalf, and answer all queries related to deductions.
+- The deductions in salary due to Unpaid leaves per day is calculated by dividing total salary by total working days in that month
 
 ## Performance Review
 All performance reviews will be completed in writing by your manager on the form designated by the company and reviewed during a conference with you. A performance review usually promotes you to a higher level with higher pay.
