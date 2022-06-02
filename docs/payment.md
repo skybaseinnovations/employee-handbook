@@ -15,7 +15,7 @@ All payments are made online and deposited directly to your bank account, so pub
 The company provides two kinds of bonuses, apart from your regular payment. These bonuses are entirely voluntary and subject to the availability of adequate funds in the company.
 
 ## Festival Bonus
-Every year, on the occasion of the Dashain festival, the company gives you a Festival Bonus. As a culture, the company distributes at least a certain equal amount to everyone who has worked for at least six months in the company. The amount may or may not be equal to your regular paycheck, because we believe the festival should be equally enjoyable for everyone irrespective of their monthly salary.
+Every year, on the occasion of the Dashain festival, the company gives you a Festival Bonus. As a culture, the company distributes at least a certain equal amount to everyone who has worked for at least twelve months in the company. The amount may or may not be equal to your regular paycheck, because we believe the festival should be equally enjoyable for everyone irrespective of their monthly salary.
 
 ## Performance Bonus
 The company gives Performance Bonuses to people who have the greatest impact on the company’s growth. The bonus amount and frequency depend on three factors – your observed performance, the success of the project that you worked on, and the impact of your work on the success of the said projects. There are no specific rules and guidelines about how you get performance bonuses. In a nutshell, the more serious you are towards your work, and the more successful the product becomes, the more bonus you will receive. In fact, it’s also a matter of luck in some cases.
