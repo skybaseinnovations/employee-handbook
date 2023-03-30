@@ -49,6 +49,22 @@ When an absence is due to illness, or medical emergency the company reserves the
 ## Leaves
 You can take the following kinds of paid leaves. If you have worked in the company for more than a year will be paid in full. Otherwise, you will be paid half for the days on your leave. If you are still under the probation period will not be paid for the days you take leave.
 
+
+**TBD**
+
+| Leave Type | Paid/Unpaid | Duration | Eligibility | Conditions |
+|------------|-------------|----------|-------------|------------|
+| Annual Leave | Paid | Up to 15 days per year | Worked in the company for over 3 months | Can be used for medical purposes and other casual work. If used for communicable disease, it will be deducted from available quota, and once the quota runs out, it will be unpaid leave. |
+| Maternity Leave | Paid | 100 consecutive days | Expecting mothers | Can start no sooner than 15 days before expected delivery date unless medical condition prevents her from coming to work. The mother of a newborn can work from home until the baby is 6 months old. |
+| Paternity Leave | Paid | 15 consecutive days | Expecting fathers | Can work from home until the baby is one month old as long as the mother and baby live together with him. |
+| Mourning Leave | Paid | Up to 15 consecutive days (depending on culture) | Everyone | Immediate family includes spouses, children, parents, siblings, and in-laws living together or as a part of their family. Up to two days of leave to attend the funeral of an extended family member. One day of leave to attend the funeral of former colleagues, classmates, teachers, and close friends. |
+| Civic Duty Leave | Paid | Duration varies | Everyone | Leave taken to fulfill necessary civic duties. Exercising voting rights and any other civic rights will be considered as civic duty. |
+| Leave in Lieu | Paid | Duration varies | Everyone | For employees who work on public holidays or weekly offs. |
+| Examination Leave | Unpaid | Duration varies | Students/Full-time employees | For students, unpaid leave given a week before the examination. For full-time employees, leaves are granted according to the Project Manager. |
+| Other Leaves | Unpaid | Up to 15 days per year | Everyone | All other leaves will be unpaid. |
+| Unused Leaves | Paid | Duration varies | Everyone | Sick leave carries over to the next year. Paid for accrued but unused vacation time as part of the last paycheck or on the day the contract ends. Payment made according to the rate at the time the leave was accrued. |
+**TBD**
+
 ### Sick Leave
 Every year you get one day off of every month as Sick Leave apart from other vacations. You may use this leave quota for medical purposes as well as other casual work. If you have an infection of communicable disease, the company may force you to take a leave until you are cured. Such leave will be deducted from the available Sick Leave quota; if the quota runs out, such leave will be an unpaid leave.
 
