@@ -5,6 +5,7 @@ theme:
     primary: light blue
 nav:
 - Home : index.md
+- Welcome : welcome.md
 - About Your Employment : about.md
 - Calendar and Leave Policy : leave.md
 - Payments and Benefits : payment.md
