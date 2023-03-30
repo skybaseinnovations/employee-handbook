@@ -1,5 +1,7 @@
 site_name: Employee Handbook 
 theme:
+  font:
+    text: Plus Jakarta Sans
   name: material
   palette:
     primary: light blue
