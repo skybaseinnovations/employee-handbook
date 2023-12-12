@@ -12,4 +12,5 @@ nav:
 - Calendar and Leave Policy : leave.md
 - Payments and Benefits : payment.md
 - Accidents, Misconduct and Disputes : accident.md
-- Conventions : conventions.md
+# - Conventions : conventions.md
+- Git Conventions : git-conventions.md
