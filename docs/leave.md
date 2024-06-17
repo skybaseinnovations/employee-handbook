@@ -50,41 +50,41 @@ When an absence is due to illness, or medical emergency the company reserves the
 You can take the following kinds of paid leaves. If you have worked in the company for more than a year will be paid in full. Otherwise, you will be paid half for the days on your leave. If you are still under the probation period will not be paid for the days you take leave.
 
 
-**TBD**
 
-| Leave Type | Paid/Unpaid | Duration | Eligibility | Conditions |
-|------------|-------------|----------|-------------|------------|
-| Annual Leave | Paid | Up to 15 days per year | Worked in the company for over 3 months | Can be used for medical purposes and other casual work. If used for communicable disease, it will be deducted from available quota, and once the quota runs out, it will be unpaid leave. |
-| Maternity Leave | Paid | 100 consecutive days | Expecting mothers | Can start no sooner than 15 days before expected delivery date unless medical condition prevents her from coming to work. The mother of a newborn can work from home until the baby is 6 months old. |
-| Paternity Leave | Paid | 15 consecutive days | Expecting fathers | Can work from home until the baby is one month old as long as the mother and baby live together with him. |
-| Mourning Leave | Paid | Up to 15 consecutive days (depending on culture) | Everyone | Immediate family includes spouses, children, parents, siblings, and in-laws living together or as a part of their family. Up to two days of leave to attend the funeral of an extended family member. One day of leave to attend the funeral of former colleagues, classmates, teachers, and close friends. |
-| Civic Duty Leave | Paid | Duration varies | Everyone | Leave taken to fulfill necessary civic duties. Exercising voting rights and any other civic rights will be considered as civic duty. |
-| Leave in Lieu | Paid | Duration varies | Everyone | For employees who work on public holidays or weekly offs. |
-| Examination Leave | Unpaid | Duration varies | Students/Full-time employees | For students, unpaid leave given a week before the examination. For full-time employees, leaves are granted according to the Project Manager. |
-| Other Leaves | Unpaid | Up to 15 days per year | Everyone | All other leaves will be unpaid. |
-| Unused Leaves | Paid | Duration varies | Everyone | Sick leave carries over to the next year. Paid for accrued but unused vacation time as part of the last paycheck or on the day the contract ends. Payment made according to the rate at the time the leave was accrued. |
-**TBD**
+### General Policy Overview
 
-### Sick Leave
-Every year you get one day off of every month as Sick Leave apart from other vacations. You may use this leave quota for medical purposes as well as other casual work. If you have an infection of communicable disease, the company may force you to take a leave until you are cured. Such leave will be deducted from the available Sick Leave quota; if the quota runs out, such leave will be an unpaid leave.
+- Employees with more than a year of service will receive full pay during their leaves. Employees with less than a year of service but over three months will receive half pay for the days they are on leave. Leaves taken during the probation period will not be paid.
 
-### Maternity Leave
-The company provides 100 consecutive days of fully paid leave to expecting mothers. The leave can start no sooner than 15 days before the expected delivery date unless a medical condition prevents her from coming to work. The mother of a newborn can work from home until the baby is 6 months old. Similarly, the company provides 15 consecutive days of fully paid leave to expecting fathers. The father of the newborn can work from home until the baby is one month old as long as the mother and baby live together with him.
+### Paid Leave Types
 
-### Mourning Leave
-The company provides everyone up to 15 consecutive days (depending on your culture) of leave in the unfortunate event of their immediate family’s demise. Immediate family includes spouses, children, parents, siblings, and in-laws living together or as a part of their family. The company provides up to two days of leave to attend the funeral of an extended family member, which includes grandparents, aunts, uncles, cousins, and alike. The company also provides one day of leave to attend the funeral of their former colleagues, classmates, teachers, and close friends.
+| Leave Type | Duration | Eligibility | Conditions |
+| --- | --- | --- | --- |
+| Annual Leave | Up to 15 days per year (1.25 per month collection) | Worked in the company > 3 months | Must be used within the fiscal year; unused leave cannot be carried over or encashed. |
+| Maternity Leave | 100 consecutive days | Expecting mothers | Begins no sooner than 15 days before the expected delivery date; work from home possible until the baby is 6 months old. |
+| Paternity Leave | 15 consecutive days | Expecting fathers | Can work from home until the baby is one month old, if living with the mother and baby. |
+| Mourning Leave | Up to 15 consecutive days | Everyone | For immediate family demise. Shorter leaves for extended family funerals and funerals of close associates. |
+| Civic Duty Leave | Duration varies | Everyone | For fulfilling civic duties, including voting and other civic rights. |
+| Leave in Lieu | Duration varies | Everyone | For employees who work on public holidays or weekly offs. |
+| Sick Leave | 1 day per month | Everyone | For medical purposes and casual work. No financial compensation for unused days. |
 
-### Civic Duty Leave
-Leave taken to fulfill necessary civic duties will be granted as paid leave. Exercising voting rights and any other civic rights will be considered as a civic duty.
+### Unpaid Leave Types
 
-### Leave in lieu
-For the employees who put in work in public holiday or weekly offs.
+| Leave Type | Duration | Eligibility | Conditions |
+| --- | --- | --- | --- |
+| Examination Leave | Duration varies | Students/Full-time employees | Students receive leave one week before exams; full-time employees' leave is subject to Project Manager approval. |
+| Other Leaves | Up to 15 days per year | Everyone | All other leaves not covered under paid leaves. |
 
-### Examination Leave
-For students, Unpaid leaves given provided a week before the Examination. For the full-time employees, leaves are granted according to the Project Manager
+### FAQs
 
-### Other Leaves
-All other leaves will be unpaid. You can take a maximum of 15 days of unpaid leave per year. 
+**Q1: What happens if I don’t use my annual leave by the end of the fiscal year?**
 
-### Unused Leaves
-Only the sick leave carries over to the next year. You will be paid for accrued but unused vacation time as part of your last paycheck, or on the day your contract ends. The payment will be made according to your rate at the time the leave was accrued.
+- **A1**: Any unused annual leave will not carry over to the next year and cannot be exchanged for financial compensation. We encourage you to plan your vacations accordingly to utilize your entitled leave within the fiscal year.
+
+**Q2: Can sick leave be converted into annual leave or encashed if unused?**
+
+- **A2**: No, sick leave is intended specifically for health-related absences and cannot be converted into annual leave or encashed.
+
+**Q3: Are there any exceptions to the policy for annual leave expiration?**
+
+- **A3**: Currently, there are no exceptions. All employees are encouraged to manage their leave to take advantage of their annual leave entitlement within the fiscal year.
+
