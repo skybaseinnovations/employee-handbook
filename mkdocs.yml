@@ -35,4 +35,4 @@ nav:
     - Configure Apple Developer Account: signin-with-apple/step-1.md
     - Set up Apple Service ID: signin-with-apple/step-2-set-up-apple-service-id.md
     - Configure in Xcode: signin-with-apple/step-3-configure-in-xcode.md
-    - Implement Apple Sign-In in App (Using Flutter): signin-with-apple/step-4-implement-apple-sign-in-in-app-using-flutter.md
+    - Implement in App: signin-with-apple/step-4-implement-apple-sign-in-in-app-using-flutter.md
