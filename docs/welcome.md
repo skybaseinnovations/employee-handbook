@@ -7,9 +7,7 @@ Here are some tips to get you started:
     
 -   **Submit your citizenship to Admin:** To get started with official work and payroll, make sure to submit your citizenship certificate to our Admin team. 📄💼
     
--   **Creating a <name>[.skybase@gmail.com](mailto:.skybase@gmail.com) email:** Create a new email account with your name (e.g. _[bruce.skybase@gmail.com](mailto:bruce.skybase@gmail.com)_). It's a quick and easy way to get started with company email. 📧👨‍💻
-    
--   **Contact Admin/Lead for @skybase.com.np email:** If you need a company email for GitLab and project assignments, contact our Admin/Lead. They'll set you up in no time. 📨💻
+-   **Contact Admin/Lead for @skybase.com.np email:** If you need a company email for Github and project assignments, contact our Admin/Lead. They'll set you up in no time. 📨💻
     
 -   **Learn to use Skybase Karya:** Our in-house project management and HR tool has many features, such as progress tracking, attendance, and leave management. Take some time to learn it and make your work life easier. 📊📆
     
