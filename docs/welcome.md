@@ -1,19 +1,60 @@
+### **Welcome to Skybase Innovations!**
+👋 We’re thrilled to have you on board! 🚀 Here, coding is our superpower, and innovation is our middle name! 💻 We can't wait to see the amazing things we'll achieve together. Let’s get ready to take the software development world by storm! ⚡️
 
-👋 **Welcome to Skybase Innovations!** 🚀 Where coding is our superpower and innovation is our middle name! 💻 We're thrilled to have you on board with us, and we can't wait to see the amazing things we'll achieve together! Let's get ready to take the software development world by storm! ⚡️
+### **Getting Started**
 
-Here are some tips to get you started:
+Here are some essential tips to help you start your journey with us:
 
--   **Using Discord for messaging:** Join our Discord server for team communication and updates. It's where the magic happens! 🔮🌟
+1. **Submit Your Citizenship Certificate**
     
--   **Submit your citizenship to Admin:** To get started with official work and payroll, make sure to submit your citizenship certificate to our Admin team. 📄💼
+    To begin official work and payroll processing, please submit your citizenship certificate to the Admin team. 📄💼
     
--   **Contact Admin/Lead for @skybase.com.np email:** If you need a company email for Github and project assignments, contact our Admin/Lead. They'll set you up in no time. 📨💻
+2. **Official Company Email**
     
--   **Learn to use Skybase Karya:** Our in-house project management and HR tool has many features, such as progress tracking, attendance, and leave management. Take some time to learn it and make your work life easier. 📊📆
+    You will be given an official company email address (name@skybase.com.np). This email is essential for all work-related communications and documentation.
     
--   **Take breaks and enjoy our office perks:** Our office has a kitchen where you can make yourself a cup of coffee, tea, or grab a glass of water. And don't forget to take breaks to recharge! ☕🍪
+3. **Join Our Discord Server**
     
--   **If you're an intern, know your supervisor:** If you're an intern, make sure you know who your supervisor is and don't hesitate to ask for help with tasks. We're here to support you. 👨‍🏫📚
+    Our Discord server is the heart of our communication, providing updates and facilitating team collaboration. Here’s how to join:
     
+    - **Create a Discord Account with Company Email**: If you don’t have one, sign up at Discord Sign-Up. (Make sure to keep your office and personal accounts separate.)
+    - **Add HR**: Add the HR representative to your Discord account.
+    - **Receive Invitation**: You will get an invitation link from HR to join the company server. Click on the link and follow the prompts to get started.
+    - **Explore Channels**: Familiarize yourself with various channels like #general, #updates, and #team-discussion.
 
-We're excited to have you join our team at Skybase Innovations! Let's make some magic happen. 🚀🌟
+4. **Learn to Use Karyabase**
+    
+    Karya is our in-house project management and HR tool. It helps manage leave requests, track tasks, and monitor project progress.
+    
+    - **Access Karyabase**: You will receive your login credentials and the link via your official email or Discord message. Log in at Karya Platform Login using the provided username and password.
+    - **Key Features**: Use the "HR" section for leave requests, attendance, and holiday management. Remember to clock in and out as per working days.
+
+5. **Set Up GitHub**
+    
+    GitHub is crucial for version control and collaborative development.
+    
+    - **Receive Credentials**: Your GitHub account will be created by management, and you’ll receive login details via your company email.
+    - **Access Repositories**: You will get invitations to join relevant code repositories. Accept these to access the codebase.
+
+6. **Take Breaks and Enjoy Office Perks**
+    
+    Don’t forget to take breaks! Our office kitchen has coffee, tea, and water available for you. ☕🍪
+    
+7. **Know Your Supervisor**
+    
+    If you’re an intern, make sure to know your supervisor and don’t hesitate to ask for help. We’re here to support you! 👨‍🏫📚
+
+8. **Explore**
+    
+    Explore more on this handbook to know more about our office culture, policies and conventions📚
+
+### **Contact Information**
+
+For any questions or assistance, feel free to reach out:
+
+- **HR & Finance**: `aakriti@skybase.com.np` | `+977-9824119284` | Discord ID: `aakriti_r`
+- **Operations**: `bikash@skybase.com.np` | `+977-98467145450` | Discord ID: `grg_bg_123`
+
+### **Conclusion**
+
+We are excited to have you join our team at Skybase Innovations! Please ensure you complete the onboarding steps outlined above, and don’t hesitate to reach out if you need assistance. Let’s make some magic happen together! 🚀🌟
