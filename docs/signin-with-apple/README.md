@@ -1,12 +1,9 @@
 ---
 description: Signin  with apple (flutter - nodejs)
 ---
-
 # Sign in with apple
 
-**Description:** "Sign in with Apple provides a secure and seamless way for users to authenticate with your app using their Apple ID, ensuring privacy and ease of use."
-
-
+Sign in with Apple provides a secure and seamless way for users to authenticate with your app using their Apple ID, ensuring privacy and ease of use.
 
 **Steps to include:**
 
@@ -17,7 +14,7 @@ description: Signin  with apple (flutter - nodejs)
 5. **Handle Callback**: Process the response from Apple, including user identity tokens.(configure redirect url)
 6. **Test the Integration**: Verify the sign-in flow on both iOS and the web.
 
-These steps provide an overview of what developers need to do to enable "Sign in with Apple."
+by **Bidhan** and **Binayak**, 2024
 
 
 
