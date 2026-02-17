@@ -1,3 +1,5 @@
+<img src="./assets/welcome-banner.jpeg" style="width: 100%; border-radius: 10px; margin-bottom: 20px;" alt="Welcome Banner" />
+
 ### **Welcome to Skybase Innovations!**
 👋 We’re thrilled to have you on board! 🚀 Here, coding is our superpower, and innovation is our middle name! 💻 We can't wait to see the amazing things we'll achieve together. Let’s get ready to take the software development world by storm! ⚡️
 
@@ -52,7 +54,7 @@ Here are some essential tips to help you start your journey with us:
 
 For any questions or assistance, feel free to reach out:
 
-- **HR & Finance**: `aakriti@skybase.com.np` | `+977-9824119284` | Discord ID: `aakriti_r`
+
 - **Operations**: `bikash@skybase.com.np` | `+977-98467145450` | Discord ID: `grg_bg_123`
 
 ### **Conclusion**

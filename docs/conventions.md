@@ -1,16 +1,36 @@
-# Android Version Management Guide
+# Versioning & Branching Conventions
 
-## Overview
-This guide outlines the strategy for managing Android versionCode and versionName in your Android projects. The versionCode is an integer that represents the version of the application code, while the versionName is a string that represents the version shown to the user.
+## Flutter Version Management
+
+This guide outlines the strategy for managing version numbers and build codes in your Flutter projects.
 
 ### Versioning Strategy
-We use a unique approach to generate the versionCode from the versionName. The versionName follows the semantic versioning format MAJOR.MINOR.PATCH, and the versionCode is a concatenation of these numbers, padded as needed.
+
+We follow Semantic Versioning (MAJOR.MINOR.PATCH):
+
+-   **Pre-Launch (Development):** versions start below `1.0.0` (e.g., `0.1.2`).
+-   **Post-Launch (Production):** versions start from `1.0.0` and increment accordingly (e.g., `1.0.1`, `1.1.0`).
+
+### Build Code Strategy
+
+The `versionCode` (build number) follows a date-based format: `YYYYMMDDXX`.
+
+-   `YYYYMMDD`: Current date.
+-   `XX`: Two-digit build count for that day (starting from `01`).
+
+**Example:**
+For the first build on December 1st, 2025: `2025120101`
+
+---
+
+## Git Branch Naming Conventions
+
+Maintain a clean and organized repository by following these branch naming conventions:
+
+-   **Feature Branches:** `feat/feature-name`
+    -   Example: `feat/login-screen`
+-   **Developer Branches:** simply use your name or username.
+    -   Example: `sonam`
 
 
-| Version Element | Value   | Padded Value | Description                          |
-|-----------------|---------|--------------|--------------------------------------|
-| Major Version   | 1       | 100000       | Major version, padded to six digits  |
-| Minor Version   | 5       | 5000         | Minor version, padded to four digits |
-| Patch Version   | 61      | 61           | Patch version, no padding needed     |
-| **versionName** | 1.5.61  |              | Concatenated version name            |
-| **versionCode** | 105061  |              | Concatenated padded values           |
+

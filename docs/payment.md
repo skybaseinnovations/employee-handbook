@@ -1,3 +1,5 @@
+<img src="./assets/payments-banner.jpeg" style="width: 100%; border-radius: 10px; margin-bottom: 20px;" alt="Payments Banner" />
+
 We want everyone to know what it is like to work at Skybase Innovations. This section of our handbook tries to answer all information that you would need to know before applying, as well as serve as a reference guide to our team members. Team Skybase can direct all questions related to this section to our Operations Manager, or ask a question in the #general channel.
 
 # Payments

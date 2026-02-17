@@ -10,11 +10,11 @@ To begin integrating **Sign in with Apple** into your Flutter project, you’ll 
 
 
 
-<figure><img src="/assets/Screenshot 2024-10-18 at 12.22.29.png" alt=""><figcaption><p>This must be in your pubspec.yaml file</p></figcaption></figure>
+<figure><img src="../assets/Screenshot 2024-10-18 at 12.22.29.png" alt=""><figcaption><p>This must be in your pubspec.yaml file</p></figcaption></figure>
 
 Then, run:
 
-<figure><img src="/assets/Screenshot 2024-10-18 at 12.23.47.png" alt=""><figcaption><p>Hit pub get in terminal/bash</p></figcaption></figure>
+<figure><img src="../assets/Screenshot 2024-10-18 at 12.23.47.png" alt=""><figcaption><p>Hit pub get in terminal/bash</p></figcaption></figure>
 
 This will install the **sign\_in\_with\_apple** package which provides the API to handle the authentication process.
 
@@ -29,7 +29,7 @@ You’ve already enabled **Sign in with Apple** capability in Xcode (as per the 
 * **Update the Info.plist file**:
   * Add the following to your `Info.plist` to configure the usage description and URL schemes for Apple Sign-In:
 
-<figure><img src="/assets/Screenshot 2024-10-18 at 12.26.05.png" alt=""><figcaption><p>configure this in Info.plist</p></figcaption></figure>
+<figure><img src="../assets/Screenshot 2024-10-18 at 12.26.05.png" alt=""><figcaption><p>configure this in Info.plist</p></figcaption></figure>
 
 Make sure to replace `"your.bundle.identifier"` with your app’s actual bundle ID.
 
@@ -44,11 +44,11 @@ Now, you need to implement the actual sign-in logic in your Flutter app using th
 
 
 
-<figure><img src="/assets/Screenshot 2024-10-18 at 12.27.39.png" alt=""><figcaption><p>import the package in your UI</p></figcaption></figure>
+<figure><img src="../assets/Screenshot 2024-10-18 at 12.27.39.png" alt=""><figcaption><p>import the package in your UI</p></figcaption></figure>
 
 &#x20; **Create the Apple Sign-In Button**: You can add an Apple sign-in button to your app’s UI by using the built-in button widget:
 
-<figure><img src="/assets/Screenshot 2024-10-18 at 12.29.42.png" alt=""><figcaption><p>you can customize your button</p></figcaption></figure>
+<figure><img src="../assets/Screenshot 2024-10-18 at 12.29.42.png" alt=""><figcaption><p>you can customize your button</p></figcaption></figure>
 
 **Explanation of the `getAppleIDCredential` Method**:
 
@@ -132,13 +132,13 @@ Here’s a step-by-step guide, focusing on how to generate the secret key (Clien
 
 **1. Install `jsonwebtoken` and `fs` packages**
 
-<figure><img src="/assets/Screenshot 2024-10-18 at 12.59.28.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../assets/Screenshot 2024-10-18 at 12.59.28.png" alt=""><figcaption></figcaption></figure>
 
 **2. Generate the JWT (Client Secret) in Node.js**
 
 Here’s an example of how to generate the **JWT Client Secret** using Node.js:
 
-<figure><img src="/assets/client-secret.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../assets/client-secret.webp" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -167,7 +167,7 @@ Once you’ve generated the **Client Secret** (JWT), your backend can now use it
 
 Now Example Request:&#x20;
 
-<figure><img src="/assets/request.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../assets/request.webp" alt=""><figcaption></figcaption></figure>
 
 Now you are done.\
 You can sign in with apple now.

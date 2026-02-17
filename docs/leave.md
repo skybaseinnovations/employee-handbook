@@ -7,6 +7,8 @@
 }
 </style>
 
+<img src="./assets/leave-banner.jpeg" style="width: 100%; border-radius: 10px; margin-bottom: 20px;" alt="Leave Banner" />
+
 Our working hours in a day will be 8 hours, including an hour break for lunch and other personal work. We are flexible in our working hours in case of an emergency. Depending on the circumstances, you may need to work overtime. We will give you as much advance notice as possible when you need to work overtime. Overtime work should only be done after being explicitly instructed and approved by the Operations Manager.
 
 ## Time Schedule
@@ -59,13 +61,13 @@ You can take the following kinds of paid leaves. If you have worked in the compa
 
 | Leave Type | Duration | Eligibility | Conditions |
 | --- | --- | --- | --- |
-| Annual Leave | Up to 15 days per year (1.25 per month collection) | Worked in the company > 3 months | Must be used within the fiscal year; unused leave cannot be carried over or encashed. |
+| Earned/Casual Leave | 5 days per 4 months | Worked in the company > 3 months | Resets every 4 months; no carry over. |
 | Maternity Leave | 100 consecutive days | Expecting mothers | Begins no sooner than 15 days before the expected delivery date; work from home possible until the baby is 6 months old. |
 | Paternity Leave | 15 consecutive days | Expecting fathers | Can work from home until the baby is one month old, if living with the mother and baby. |
 | Mourning Leave | Up to 15 consecutive days | Everyone | For immediate family demise. Shorter leaves for extended family funerals and funerals of close associates. |
 | Civic Duty Leave | Duration varies | Everyone | For fulfilling civic duties, including voting and other civic rights. |
 | Leave in Lieu | Duration varies | Everyone | For employees who work on public holidays or weekly offs. |
-| Sick Leave | 1 day per month | Everyone | For medical purposes and casual work. No financial compensation for unused days. |
+| Sick Leave | 1 day every month | Everyone | For medical purposes and casual work. No financial compensation for unused days. |
 
 ### Unpaid Leave Types
 
@@ -76,15 +78,15 @@ You can take the following kinds of paid leaves. If you have worked in the compa
 
 ### FAQs
 
-**Q1: What happens if I don’t use my annual leave by the end of the fiscal year?**
+**Q1: What happens if I don’t use my Earned/Casual leave by the end of the 4-month period?**
 
-- **A1**: Any unused annual leave will not carry over to the next year and cannot be exchanged for financial compensation. We encourage you to plan your vacations accordingly to utilize your entitled leave within the fiscal year.
+- **A1**: Any unused Earned/Casual leave will not carry over to the next period and cannot be exchanged for financial compensation. We encourage you to plan your time off accordingly.
 
-**Q2: Can sick leave be converted into annual leave or encashed if unused?**
+**Q2: Can sick leave be converted into Earned/Casual leave or encashed if unused?**
 
-- **A2**: No, sick leave is intended specifically for health-related absences and cannot be converted into annual leave or encashed.
+- **A2**: No, sick leave is intended specifically for health-related absences and cannot be converted into other leave types or encashed.
 
-**Q3: Are there any exceptions to the policy for annual leave expiration?**
+**Q3: Are there any exceptions to the policy for leave expiration?**
 
-- **A3**: Currently, there are no exceptions. All employees are encouraged to manage their leave to take advantage of their annual leave entitlement within the fiscal year.
+- **A3**: Currently, there are no exceptions. All employees are encouraged to manage their leave to take advantage of their entitlement within the respective periods.
 

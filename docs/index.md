@@ -1,4 +1,35 @@
+---
+layout: home
+
+hero:
+  name: "Employee Handbook"
+  text: "Skybase Innovations"
+  tagline: Your guide to culture, policies, and success at Skybase.
+  actions:
+    - theme: brand
+      text: Get Started
+      link: /welcome
+    - theme: alt
+      text: View on GitHub
+      link: https://github.com/skybaseinnovations/employee-handbook
+
+features:
+  - title: Core Policies
+    details: Essential information about employment terms, leave, and benefits.
+    link: /welcome
+    icon: 🏢
+  - title: Development Guide
+    details: Coding conventions, git workflow, and best practices.
+    link: /git-conventions
+    icon: 👩‍💻
+  - title: Knowledge Base
+    details: Tutorials and guides for various technologies and tools.
+    link: /signin-with-apple/
+    icon: 📚
+---
+
 # About This Handbook
+
 With a new job comes a new culture. You may need to make yourself familiar with the new organizational policies and procedures. You may need to unlearn a lot of things and learn a lot more. It’s not always an easy task to onboard a new team, but we hope this handbook will help you with most of the things.
 
 This handbook will also serve as a common place for sharing knowledge across the company. We hope this handbook will save everyone some time by eliminating the need to ask a lot of questions. The content of this handbook is crowdsourced from inside the team. Everyone is welcome to suggest changes or additions to this handbook. In fact, we encourage everyone in the team to publish the most commonly asked questions to this handbook.

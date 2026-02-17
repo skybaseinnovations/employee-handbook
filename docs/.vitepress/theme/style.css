@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+:root {
+  --vp-font-family-base: 'Outfit', sans-serif;
+
+  /* Brand Color - Turquoise */
+  --vp-c-brand-1: #06b6d4;
+  /* Base turquoise */
+  --vp-c-brand-2: #22d3ee;
+  /* Light turquoise (hover) */
+  --vp-c-brand-3: #0891b2;
+  /* Dark turquoise (active) */
+}
+
+.VPFeatures {
+  margin-bottom: 64px !important;
+}
+
+.VPDoc:not(.has-sidebar) .content-container {
+  max-width: 1104px !important;
+}
+
+.VPDoc.has-sidebar .content-container {
+  max-width: 1104px !important;
+}
