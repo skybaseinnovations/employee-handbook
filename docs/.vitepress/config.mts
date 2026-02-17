@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Employee Handbook",
   description: "Skybase Innovations Employee Handbook",
+  outDir: '../site',
   themeConfig: {
     siteTitle: false,
     logo: { light: '/light.svg', dark: '/dark.svg' },

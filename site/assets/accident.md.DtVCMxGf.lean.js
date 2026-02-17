@@ -1,0 +1,1 @@
+import{_ as a,o,c as t,ae as n}from"./chunks/framework.Dn7Y7LSn.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"accident.md","filePath":"accident.md"}'),i={name:"accident.md"};function r(s,e,c,l,d,h){return o(),t("div",null,[...e[0]||(e[0]=[n("",25)])])}const m=a(i,[["render",r]]);export{p as __pageData,m as default};
