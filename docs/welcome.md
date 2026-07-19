@@ -14,9 +14,9 @@ Nine moves. Knock them out in order and you are officially rolling.
 
 <div class="onboard-grid">
 
-<OnboardingStep step="01" title="Submit your citizenship certificate" tag="Payroll unlock">
+<OnboardingStep step="01" title="Submit your citizenship certificate" tag="Agreement">
 
-Hand your citizenship certificate to the **Admin team**. Official work and payroll processing start after this lands.
+Hand your citizenship certificate to the **Admin team**. Your employment agreement can move forward once this lands.
 
 </OnboardingStep>
 
