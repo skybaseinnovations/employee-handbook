@@ -1,23 +1,21 @@
 # Daily Work Updates
 
-All work updates are managed through **Karyabase** (our project management tool). However, daily summaries must also be posted on **Discord**.
+All daily work updates are submitted through the **Updates** section in **Karyabase** (our project management tool). Do **not** post daily work updates on Discord.
 
-## Channels
--   **Employees:** `#updates`
--   **Interns:** `#intern-updates` (Contact admin if you don't have access).
+## Where to post
+1. Log in to [karyabase.com](https://karyabase.com).
+2. Open the **Updates** section.
+3. Add your daily work update there.
 
 ## Format
 Please use the following format for your daily updates:
 
 ```text
-**Update [Date]**
 *[Project Name]*
  - [list of tasks completed/worked on]
 ```
 
 **Example:**
-
-**Update 11 Feb**
 
 *b2bsolution*
  - updated dashboard, order, comment, product page

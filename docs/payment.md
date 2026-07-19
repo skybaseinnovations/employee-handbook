@@ -1,6 +1,6 @@
 <img src="./assets/payments-banner.jpeg" style="width: 100%; border-radius: 10px; margin-bottom: 20px;" alt="Payments Banner" />
 
-We want everyone to know what it is like to work at Skybase Innovations. This section of our handbook tries to answer all information that you would need to know before applying, as well as serve as a reference guide to our team members. Team Skybase can direct all questions related to this section to our Operations Manager, or ask a question in the #general channel.
+We want everyone to know what it is like to work at Skybase Innovations. This section of our handbook tries to answer all information that you would need to know before applying, as well as serve as a reference guide to our team members. Team Skybase can raise payment-related questions as a **ticket** on [Karyabase](https://karyabase.com), contact the Operations Manager, or ask in the #general channel.
 
 # Payments
 You must meet the following criteria to be able to receive your payment.
@@ -49,7 +49,7 @@ The company will withhold the following from your paycheck:
 - Based on your employment contract, we may deduct the amounts for savings funds such as Citizen Investment Trust, Provident Fund, insurance premiums, and such.
 - All other payments made to you will be subject to the rates assigned by the IRD.
 - You will receive notifications from the IRD when the withheld tax is deposited on your behalf.
-Our Operations Manager will provide you all the details about the deductions made on your behalf, and answer all queries related to deductions.
+Our Operations Manager will provide you all the details about the deductions made on your behalf, and answer all queries related to deductions. You can also raise deduction-related queries as a **ticket** on [Karyabase](https://karyabase.com).
 - The deductions in salary due to Unpaid leaves per day is calculated by dividing total salary by total working days in that month
 
 ## Performance Review

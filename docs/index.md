@@ -2,28 +2,28 @@
 layout: home
 
 hero:
-  name: "Employee Handbook"
-  text: "Skybase Innovations"
-  tagline: Your guide to culture, policies, and success at Skybase.
+  name: "Skybase"
+  text: "Employee Handbook"
+  tagline: Culture, policies, and playbooks — everything you need to thrive here.
   actions:
     - theme: brand
-      text: Get Started
+      text: Start onboarding →
       link: /welcome
     - theme: alt
-      text: View on GitHub
-      link: https://github.com/skybaseinnovations/employee-handbook
+      text: Git Conventions
+      link: /git-conventions
 
 features:
   - title: Core Policies
-    details: Essential information about employment terms, leave, and benefits.
+    details: Employment, attendance, leave, pay, and how we handle the hard stuff.
     link: /welcome
-    icon: 🏢
+    icon: 🚀
   - title: Development Guide
-    details: Coding conventions, git workflow, and best practices.
+    details: Git workflow, versioning, multi-accounts, and daily update habits.
     link: /git-conventions
-    icon: 👩‍💻
+    icon: ⚡
   - title: Knowledge Base
-    details: Tutorials and guides for various technologies and tools.
+    details: Hands-on tutorials — from Sign in with Apple to more team know-how.
     link: /signin-with-apple/
     icon: 📚
 ---
@@ -41,7 +41,7 @@ This handbook sets guidelines for both the company and you, with good faith that
 This Handbook does not create a contract, express or implied, guaranteeing you any specific term of the agreement, nor does it obligate you to continue your cooperation at a particular time. The sole purpose of this Handbook is simply to provide you with a convenient explanation of present policies and practices at the company.
 
 ### This handbook is not complete.
-No document cannot cover every matter that might arise in the workspace, as this is only an overview. Any specific questions regarding the applicability of a particular policy or practice should address to the Operations Manager of this Company. Some information in this handbook might become redundant at some point, but the remaining terms shall stay in full effect.
+No document cannot cover every matter that might arise in the workspace, as this is only an overview. Any specific questions regarding the applicability of a particular policy or practice should be raised as a **ticket** on [Karyabase](https://karyabase.com) for Management, or addressed to the Operations Manager. Some information in this handbook might become redundant at some point, but the remaining terms shall stay in full effect.
 
 ### The information on this handbook may change.
 The company reserves the right to modify any included or excluded policies and procedures when the need arises. The changes will be notified as far as applicable by email and other appropriate means. However, the acknowledgment of receipt of such a notice is not required for changes to be effective.

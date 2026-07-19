@@ -1,62 +1,87 @@
-<img src="./assets/welcome-banner.jpeg" style="width: 100%; border-radius: 10px; margin-bottom: 20px;" alt="Welcome Banner" />
+<script setup>
+import banner from './assets/welcome-banner.jpeg'
+</script>
 
-### **Welcome to Skybase Innovations!**
-👋 We’re thrilled to have you on board! 🚀 Here, coding is our superpower, and innovation is our middle name! 💻 We can't wait to see the amazing things we'll achieve together. Let’s get ready to take the software development world by storm! ⚡️
+<WelcomeHero :banner="banner" />
 
-### **Getting Started**
+<QuickFacts />
 
-Here are some essential tips to help you start your journey with us:
+<ChecklistProgress />
 
-1. **Submit Your Citizenship Certificate**
-    
-    To begin official work and payroll processing, please submit your citizenship certificate to the Admin team. 📄💼
-    
-2. **Official Company Email**
-    
-    You will be given an official company email address (name@skybase.com.np). This email is essential for all work-related communications and documentation.
-    
-3. **Join Our Discord Server**
-    
-    Our Discord server is the heart of our communication, providing updates and facilitating team collaboration. Here’s how to join:
-    
-    - **Create a Discord Account with Company Email**: If you don’t have one, sign up at Discord Sign-Up. (Make sure to keep your office and personal accounts separate.)
-    - **Add HR**: Add the HR representative to your Discord account.
-    - **Receive Invitation**: You will get an invitation link from HR to join the company server. Click on the link and follow the prompts to get started.
-    - **Explore Channels**: Familiarize yourself with various channels like #general, #updates, and #team-discussion.
+## Getting started
 
-4. **Learn to Use Karyabase**
-    
-    Karya is our in-house project management and HR tool. It helps manage leave requests, track tasks, and monitor project progress.
-    
-    - **Access Karyabase**: You will receive your login credentials and the link via your official email or Discord message. Log in at Karya Platform Login using the provided username and password.
-    - **Key Features**: Use the "HR" section for leave requests, attendance, and holiday management. Remember to clock in and out as per working days.
+Nine moves. Knock them out in order and you are officially rolling.
 
-5. **Set Up GitHub**
-    
-    GitHub is crucial for version control and collaborative development.
-    
-    - **Receive Credentials**: Your GitHub account will be created by management, and you’ll receive login details via your company email.
-    - **Access Repositories**: You will get invitations to join relevant code repositories. Accept these to access the codebase.
+<div class="onboard-grid">
 
-6. **Take Breaks and Enjoy Office Perks**
-    
-    Don’t forget to take breaks! Our office kitchen has coffee, tea, and water available for you. ☕🍪
-    
-7. **Know Your Supervisor**
-    
-    If you’re an intern, make sure to know your supervisor and don’t hesitate to ask for help. We’re here to support you! 👨‍🏫📚
+<OnboardingStep step="01" title="Submit your citizenship certificate" tag="Payroll unlock">
 
-8. **Explore**
-    
-    Explore more on this handbook to know more about our office culture, policies and conventions📚
+Hand your citizenship certificate to the **Admin team**. Official work and payroll processing start after this lands.
 
-### **Contact Information**
+</OnboardingStep>
 
-For any questions or assistance, feel free to reach out:
+<OnboardingStep step="02" title="Claim your company email" tag="Identity">
 
+You will get an official address: **`name@skybase.com.np`**. Use it for work communication and anything that needs a paper trail.
 
-- **Operations**: `bikash@skybase.com.np` | `+977-98467145450` | Discord ID: `grg_bg_123`
+</OnboardingStep>
 
-### **Conclusion**
+<OnboardingStep step="03" title="Join Discord" tag="Team pulse">
 
-We are excited to have you join our team at Skybase Innovations! Please ensure you complete the onboarding steps outlined above, and don’t hesitate to reach out if you need assistance. Let’s make some magic happen together! 🚀🌟
+Discord is where the team lives — updates, collaboration, the everyday chatter.
+
+1. **Create an account with your company email** at [Discord Sign-Up](https://discord.com/register). Keep office and personal accounts separate.
+2. **Add HR** as a friend / contact on Discord.
+3. **Accept the invite** HR sends to the company server.
+4. **Explore channels** — start with `#general` and `#team-discussion`.
+
+</OnboardingStep>
+
+<OnboardingStep step="04" title="Learn Karyabase" tag="Ops HQ">
+
+[Karyabase](https://karyabase.com) is our in-house project management and HR tool — leave, tasks, and project progress in one place.
+
+- **Log in** with the credentials and link sent to your company email or Discord.
+- **HR section** — leave requests, attendance, and holidays. See the [Attendance](/attendance) policy for biometric vs Karyabase check-in, late rules, and missing attendance.
+- **Daily updates** — post them in the **Updates** section in Karyabase (not on Discord).
+- **Tickets** — questions for Management? Raise a **ticket** so nothing gets lost in chat.
+
+</OnboardingStep>
+
+<OnboardingStep step="05" title="Set up GitHub" tag="Code access">
+
+Version control lives here. Management creates your account and emails the login details. Accept repo invitations when they arrive so you can reach the codebase.
+
+</OnboardingStep>
+
+<OnboardingStep step="06" title="Take breaks (seriously)" tag="Human mode">
+
+The office kitchen has **coffee, tea, and water**. Step away from the screen. Your brain will thank you.
+
+</OnboardingStep>
+
+<OnboardingStep step="07" title="Know your supervisor" tag="Interns especially">
+
+If you are an intern, learn who your supervisor is and ask questions early. Support is part of the deal — use it.
+
+</OnboardingStep>
+
+<OnboardingStep step="08" title="Explore this handbook" tag="Culture map">
+
+Keep browsing. Policies, conventions, and how we work day to day are all here — better to find them once than ask twice.
+
+</OnboardingStep>
+
+<OnboardingStep step="09" title="Lock in your schedule" tag="Rhythm">
+
+Regular office hours are **10:00 AM to 6:00 PM**. Your exact hours may differ based on your employment agreement — check yours if unsure.
+
+</OnboardingStep>
+
+</div>
+
+<ContactPanel />
+
+::: tip You're cleared for takeoff
+Finish the checklist, say hi on Discord, and ship something small on day one. We are glad you are here — let's make good things together.
+:::

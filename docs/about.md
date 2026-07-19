@@ -33,9 +33,6 @@ In the first few days, you might find yourself frequently meeting the manager, b
 ## Probation Period
 Depending on your responsibility, you might be kept in a probation period of up to 3 months. Depending on your performance, the probation period may be extended up to a maximum of 12 months. During the probation period, we closely monitor your work to make sure you can continue working with us.
 
-## Attendance
-It is crucial for you to report to work on time and to avoid unnecessary absences. We understand that you to be absent from work from time to time because of illness or other circumstances beyond your control. However, we will need to take action against anyone who frequently shows up late or frequently becomes absent. When your behavior puts a strain on your coworkers and starts getting noticeable, we will be obliged to terminate your employment.
-
 ## Termination
 While we try our best to help you perform your best, sometimes we may need to let you go for the common interest of the Company and your coworkers. As far as the law allows, we reserve the right to immediately terminate your employment for any of the following misconduct.
 

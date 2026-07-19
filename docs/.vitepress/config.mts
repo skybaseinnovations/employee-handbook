@@ -3,10 +3,44 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Employee Handbook",
   description: "Skybase Innovations Employee Handbook",
+  lang: 'en-GB',
   outDir: '../site',
+  appearance: true,
+  lastUpdated: true,
+  // Prefer file mtime when newer than last git commit (so edits show before commit)
+  async transformPageData(pageData) {
+    const { statSync } = await import('node:fs')
+    const { join, dirname } = await import('node:path')
+    const { fileURLToPath } = await import('node:url')
+    const docsRoot = dirname(fileURLToPath(import.meta.url))
+    try {
+      const filePath = join(docsRoot, '..', pageData.relativePath)
+      const mtime = Math.floor(statSync(filePath).mtimeMs)
+      if (!pageData.lastUpdated || mtime > pageData.lastUpdated) {
+        pageData.lastUpdated = mtime
+      }
+    } catch {
+      // keep git lastUpdated
+    }
+  },
   themeConfig: {
+    lastUpdated: {
+      text: 'Last updated',
+      formatOptions: {
+        forceLocale: true,
+        day: 'numeric',
+        month: 'long',
+        year: '2-digit',
+        hour: '2-digit',
+        minute: '2-digit',
+        hour12: false
+      }
+    },
     siteTitle: false,
     logo: { light: '/light.svg', dark: '/dark.svg' },
+    search: {
+      provider: 'local'
+    },
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Core', link: '/welcome' },
@@ -27,6 +61,7 @@ export default defineConfig({
             items: [
               { text: 'Welcome', link: '/welcome' },
               { text: 'About Your Employment', link: '/about' },
+              { text: 'Attendance', link: '/attendance' },
               { text: 'Calendar and Leave Policy', link: '/leave' },
               { text: 'Payments and Benefits', link: '/payment' },
               { text: 'Accidents, Misconduct and Disputes', link: '/accident' }
@@ -68,12 +103,33 @@ export default defineConfig({
     ],
 
     footer: {
-      message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2024 Skybase Innovations Pvt. Ltd.'
+      message: 'Built with ☕ and curiosity at Skybase.',
+      copyright: 'Copyright © 2024–2026 Skybase Innovations Pvt. Ltd.'
+    },
+
+    editLink: {
+      pattern: 'https://github.com/skybaseinnovations/employee-handbook/edit/main/docs/:path',
+      text: 'Suggest an edit'
     },
 
     socialLinks: [
-      { icon: 'instagram', link: 'https://instagram.com/skybase.innovations' }
-    ]
+      { icon: 'instagram', link: 'https://instagram.com/skybase.innovations' },
+      { icon: 'github', link: 'https://github.com/skybaseinnovations/employee-handbook' }
+    ],
+
+    outline: {
+      label: 'On this page'
+    },
+
+    docFooter: {
+      prev: 'Previous',
+      next: 'Next up'
+    },
+
+    returnToTopLabel: 'Back to top',
+    sidebarMenuLabel: 'Menu',
+    darkModeSwitchLabel: 'Theme',
+    lightModeSwitchTitle: 'Switch to light sky',
+    darkModeSwitchTitle: 'Switch to night sky'
   }
 })

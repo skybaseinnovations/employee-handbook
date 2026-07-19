@@ -40,10 +40,12 @@ Lhosar Festival | 1 Day | Day of Lhosar| Based on religion
 We do not take a day off on occasions like April Fool’s Day, Mother’s Day, Father’s Day, Children’s Day and such. We also don’t close for people’s birthdays like on Krishna Janmasthami, Prithvi Jayanti, etc., and on frequent occasions like Sankranti, Purnima, Ekadashi, etc. If you must stay at home for an important traditional festival that is not listed above, please let your supervisor know in advance. We may need to add that particular holiday for everyone who might need a day off.
 
 ## Absence and Delay
-You need to report to work when scheduled. You should apply for a leave on our [Skybase Karya](https://www.karya.skybase.com.np) advance to your immediate supervisor or the designated manager if you are going to be absent. We expect you to be at your workstation at the beginning of each working day. In case of delay, you must call your immediate supervisor to state the reason for the delay. In case your immediate supervisor is unavailable, you must reach out to your manager personally, or through a coworker. Only some absences fall under the compensation criteria of the company’s leave and benefits policies.
+You need to report to work when scheduled. You should apply for a leave on our [Skybase Karya](https://karyabase.com) in advance to your immediate supervisor or the designated manager if you are going to be absent. We expect you to be at your workstation at the beginning of each working day.
+
+For how to mark attendance, late allowances, and related deductions, see the [Attendance](/attendance) policy. Only some absences fall under the compensation criteria of the company’s leave and benefits policies.
 
 ## Notice of Absence
-You must give notice at least 24 hours ago if you intend to take leave for the next day. That means, if you are planning to take a leave tomorrow, you should inform us today; you should notify us before or as soon as you arrive. In case of unforeseen events, you must personally notify the Operations Manager as soon as you are aware that you will be late or unable to report to work. Apply for a leave on [Skybase Karya](https://www.karya.skybase.com.np). In case you are unable to apply leave on [Skybase Karya](https://www.karya.skybase.com.np), you must inform of the same by phone or SMS. Leaving a voicemail or message with another staff member does not qualify as a notice.
+You must give notice at least 24 hours ago if you intend to take leave for the next day. That means, if you are planning to take a leave tomorrow, you should inform us today; you should notify us before or as soon as you arrive. In case of unforeseen events, you must personally notify the **Operations Manager**, a **senior**, or your **manager** as soon as you are aware that you will be late or unable to report to work. Apply for a leave on [Skybase Karya](https://karyabase.com). In case you are unable to apply leave on [Skybase Karya](https://karyabase.com), you must inform of the same by phone or SMS. Leaving a voicemail or message with another staff member does not qualify as a notice.
 
 ## Medical Emergency
 When an absence is due to illness, or medical emergency the company reserves the right to require appropriate medical documentation. Such documentation need only include the contractor’s name, the date and time a medical officer saw the contractor, and if applicable, a specific instruction regarding the contractor’s incapacity to perform his or her job. Excessive absenteeism or tardiness can result in discipline, up to and including discharge.
@@ -61,7 +63,7 @@ You can take the following kinds of paid leaves. If you have worked in the compa
 
 | Leave Type | Duration | Eligibility | Conditions |
 | --- | --- | --- | --- |
-| Earned/Casual Leave | 5 days per 4 months | Worked in the company > 3 months | Resets every 4 months; no carry over. |
+| Earned / Casual Leave | 15 days per calendar year | Employees who have completed 3 months of continuous service | Leave accrues at 1.25 days per month. Leave is subject to prior approval based on business requirements. Leave exceeding 3 consecutive working days requires approval from the Management. Unapproved additional leave will be treated as unpaid. Unused leave does not carry forward to the next calendar year. |
 | Maternity Leave | 100 consecutive days | Expecting mothers | Begins no sooner than 15 days before the expected delivery date; work from home possible until the baby is 6 months old. |
 | Paternity Leave | 15 consecutive days | Expecting fathers | Can work from home until the baby is one month old, if living with the mother and baby. |
 | Mourning Leave | Up to 15 consecutive days | Everyone | For immediate family demise. Shorter leaves for extended family funerals and funerals of close associates. |
@@ -78,9 +80,9 @@ You can take the following kinds of paid leaves. If you have worked in the compa
 
 ### FAQs
 
-**Q1: What happens if I don’t use my Earned/Casual leave by the end of the 4-month period?**
+**Q1: What happens if I don’t use my Earned/Casual leave by the end of the calendar year?**
 
-- **A1**: Any unused Earned/Casual leave will not carry over to the next period and cannot be exchanged for financial compensation. We encourage you to plan your time off accordingly.
+- **A1**: Any unused Earned/Casual leave will not carry forward to the next calendar year and cannot be exchanged for financial compensation. We encourage you to plan your time off accordingly.
 
 **Q2: Can sick leave be converted into Earned/Casual leave or encashed if unused?**
 
