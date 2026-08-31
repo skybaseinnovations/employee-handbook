@@ -61,6 +61,7 @@ export default defineConfig({
             items: [
               { text: 'Welcome', link: '/welcome' },
               { text: 'About Your Employment', link: '/about' },
+              { text: 'Policies and Procedures', link: '/policies-and-procedures' },
               { text: 'Attendance', link: '/attendance' },
               { text: 'Calendar and Leave Policy', link: '/leave' },
               { text: 'Payments and Benefits', link: '/payment' },

@@ -31,9 +31,10 @@ You will get an official address: **`name@skybase.com.np`**. Use it for work com
 Discord is where the team lives — updates, collaboration, the everyday chatter.
 
 1. **Create an account with your company email** at [Discord Sign-Up](https://discord.com/register). Keep office and personal accounts separate.
-2. **Add HR** as a friend / contact on Discord.
-3. **Accept the invite** HR sends to the company server.
-4. **Explore channels** — start with `#general` and `#team-discussion`.
+2. **Enable 2FA** on Discord before you join the server. See [Policies and Procedures](/policies-and-procedures).
+3. **Add HR** as a friend / contact on Discord.
+4. **Accept the invite** HR sends to the company server.
+5. **Explore channels** — start with `#general` and `#team-discussion`.
 
 </OnboardingStep>
 
@@ -42,6 +43,7 @@ Discord is where the team lives — updates, collaboration, the everyday chatter
 [Karyabase](https://karyabase.com) is our in-house project management and HR tool — leave, tasks, and project progress in one place.
 
 - **Log in** with the credentials and link sent to your company email or Discord.
+- **Enable 2FA** and set a strong password — PM tool passwords must be updated every **90 days**. See [Policies and Procedures](/policies-and-procedures).
 - **HR section** — leave requests, attendance, and holidays. See the [Attendance](/attendance) policy for biometric vs Karyabase check-in, late rules, and missing attendance.
 - **Daily updates** — post them in the **Updates** section in Karyabase (not on Discord).
 - **Tickets** — questions for Management? Raise a **ticket** so nothing gets lost in chat.
@@ -50,7 +52,7 @@ Discord is where the team lives — updates, collaboration, the everyday chatter
 
 <OnboardingStep step="05" title="Set up GitHub" tag="Code access">
 
-Version control lives here. Management creates your account and emails the login details. Accept repo invitations when they arrive so you can reach the codebase.
+Version control lives here. Management creates your account and emails the login details. **Enable 2FA** before you push code. Accept repo invitations when they arrive so you can reach the codebase. See [Policies and Procedures](/policies-and-procedures).
 
 </OnboardingStep>
 
