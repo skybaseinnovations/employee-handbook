@@ -1,0 +1,8 @@
+name = "employee-handbook"
+compatibility_date = "2024-01-01"
+
+# VitePress writes to /site (see docs/.vitepress/config.mts outDir)
+pages_build_output_dir = "site"
+
+[assets]
+directory = "./site"
